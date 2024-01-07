@@ -8,5 +8,5 @@ function smallestPossibleOddInteger(n){
 }
 
 
-const num = 70009;
+const num = 786541;
 console.log(smallestPossibleOddInteger(num));
