@@ -21,7 +21,8 @@ function pattern(num){
         l++;
     }
     res[num+1].fill(num);
-    return res;
+    var final = res.map((x)=>x.map((y)=>y.toString()).join(""));
+    return final;
 }
 
 const n = 4;
