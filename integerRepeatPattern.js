@@ -26,4 +26,8 @@ function pattern(num){
 }
 
 const n = 4;
-console.log(pattern(n));
+let r = pattern(n);
+r.forEach(
+    (x) => console.log(x)
+)
+
