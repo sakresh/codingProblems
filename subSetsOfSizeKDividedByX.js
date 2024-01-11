@@ -15,7 +15,10 @@ function slice(n, k, x){
 //const n = 2421036;
 //const k = 2;
 //const x = 6;
-const n = 900456;
-const k = 3;
-const x = 9;
+//const n = 900456;
+//const k = 3;
+//const x = 9;
+const n = 51636440163932888;
+const k = 5;
+const x = 8;
 console.log(slice(n, k, x).length);
