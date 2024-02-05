@@ -1,0 +1,6 @@
+function getArrayOfRightSmallerCount(nums){
+    return 0;
+}
+
+const arr = [10, 7, 6, 3, 9];
+console.log(getArrayOfRightSmallerCount(arr));
